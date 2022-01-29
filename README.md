@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beanzilla
 - 👀 I’m interested in: programming, games and robotics.
-- 🌱 I’m currently learning: Python3
+- 🌱 I’m currently learning: Python3 and Go
 - 💞️ I’m looking to collaborate on: games/programs
 - 📫 How to reach me: Just send me a issue on one of my active projects.
 
